@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=ex\ pw
+comment0.target=InfixToPostfix(java.lang.String,\ java.io.PrintWriter)
+comment1.params=temp
+comment1.target=int\ priority(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ transformToPostfix()
+comment2.text=\n\ Method\ that\ transforms\ an\ infix\ expression\ to\ postfix\n\ \n\ @return\n
+comment3.params=temp
+comment3.target=boolean\ compare_and_insert(java.lang.String)
+comment3.text=\n\ Method\ that\ compares\ the\ top\ of\ the\ stack\ with\ the\ infix\ temp\n\ @param\ temp\n\ @return\n
+comment4.params=infix\ top
+comment4.target=boolean\ check_priority(java.lang.String,\ java.lang.String)
+comment4.text=\n\ Method\ that\ check\ if\ the\ priority\ of\ the\ top\ of\ the\ stack\ is\ lower\ then\ the\ infix\n\ @param\ infix\n\ @param\ top\n\ @return\n
+comment5.params=str
+comment5.target=boolean\ isNumeric(java.lang.String)
+comment5.text=\n\ Method\ that\ checks\ if\ a\ string\ is\ a\ numeric\ character\n\ @param\ str\n\ @return\n
+numComments=6

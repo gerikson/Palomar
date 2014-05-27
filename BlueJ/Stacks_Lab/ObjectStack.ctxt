@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ObjectStack()
+comment0.text=\n\ Class\ constructor\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\n\ Checks\ if\ the\ stack\ is\ empty\n
+comment2.params=
+comment2.target=void\ clear()
+comment2.text=\n\ Clears\ all\ of\ the\ elements\ from\ the\ stack\n
+comment3.params=temp
+comment3.target=void\ push(java.lang.String)
+comment3.text=\n\ Pushes\ a\ new\ element\ on\ top\ of\ the\ stack\n
+comment4.params=size
+comment4.target=void\ resize(int)
+comment4.text=\n\ resizes\ the\ stack\n
+comment5.params=
+comment5.target=java.lang.Object\ pop()
+comment5.text=\n\ Pops\ the\ last\ element\ from\ the\ end\ of\ the\ stack\n
+comment6.params=
+comment6.target=java.lang.Object\ top()
+comment6.text=\n\ Extract\ the\ top\ of\ the\ stack\n
+numComments=7

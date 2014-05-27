@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isEmpty()
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=o
+comment2.target=void\ push(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=
+comment4.target=java.lang.Object\ top()
+numComments=5

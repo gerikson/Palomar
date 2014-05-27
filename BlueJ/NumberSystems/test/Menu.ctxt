@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=pw
+comment0.target=Menu(java.io.PrintWriter)
+comment0.text=\n\ \ Class\ constructor\n\ @param\ pw\ PrintWriter\ files\n
+comment1.params=
+comment1.target=void\ display()
+comment1.text=\n\ Displays\ the\ menu\ options\n
+comment2.params=
+comment2.target=int\ getSelection()
+comment2.text=\n\ Extracts\ the\ user\ inserted\ option\n\ @return\ the\ selection\ the\ user\ inserted\n
+comment3.params=input
+comment3.target=boolean\ qualityCheck(int)
+comment3.text=\n\ Method\ that\ check\ that\ the\ user\ inserts\ a\ correct\ value\n\ \n\ @param\ input\ -\ the\ menu\ selection\n\ @return\ true\ if\ the\ user\ inserted\ a\ number\ from\ 1\ to\ 7,\ otherwise\ false\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=err
+comment0.target=ErrorCheck(java.lang.String)
+comment1.params=
+comment1.target=boolean\ verifyError()
+comment1.text=\n\ method\ that\ verifies\ the\ validity\ of\ a\ expresion\n\ \n\ @return\ boolean\n
+comment2.params=operator
+comment2.target=boolean\ check_operator(java.lang.String)
+comment2.text=\n\ Method\ that\ verifies\ that\ a\ string\ is\ an\ operator\n\ @param\ operator\n\ @return\n
+numComments=3

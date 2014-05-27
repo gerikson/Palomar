@@ -1,0 +1,38 @@
+Infix: 8+4*2-6
+Postfix: 842*+6-
+Evaluated postfix =  10
+Infix: 7*2-4*3+2*5
+Postfix: 72*43*-25*+
+Evaluated postfix =  12
+Infix: 2*3*4-8+9/3/3
+Postfix: 23*4*8-93/3/+
+Evaluated postfix =  17
+Infix: 5+7*4-6
+Postfix: 574*+6-
+Evaluated postfix =  27
+Infix: 4*(3+2*4)-7
+Postfix: 4324*+*7-
+Evaluated postfix =  37
+Infix: (5+7)/(9-5)
+Postfix: 57+95-/
+Evaluated postfix =  3
+Infix: 3*(5*(5-2))-9
+Postfix: 3552-**9-
+Evaluated postfix =  36
+Infix: ((5*(4+2)-(8+8)/2)-9)^3
+Postfix: 542+*88+2/-9-3^
+Evaluated postfix =  2197
+Infix: ((5+5*(6-2)+4^2)*8)
+Postfix: 5562-*+42^+8*
+Evaluated postfix =  328
+Infix: (((3^4)))
+Postfix: 34^
+Evaluated postfix =  81
+Two adjacent operators
+Invalid expression: 3+*4
+Two adjacent operands
+Invalid expression: 34*5^8
+Missing or extra parathesis
+Invalid expression: (4+4
+Missing or extra parathesis
+Invalid expression: (3+4)*9)

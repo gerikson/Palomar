@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=isNumeric(java.lang.String)
+comment1.params=
+comment1.target=boolean\ isNum()
+comment1.text=\n\ Method\ that\ checks\ if\ a\ string\ is\ a\ numeric\ character\n\ @param\ str\n\ @return\n
+numComments=2

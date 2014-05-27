@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pw
+comment0.target=Binary(java.io.PrintWriter)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Binary\n\ @param\ pw\ PrintWriter\ files\n
+comment1.params=
+comment1.target=void\ binToDec()
+comment1.text=\n\ Method\ that\ transforms\ a\ binary\ number\ to\ decimal\n\ @param\ no\ parameters\n\ @return\ returns\ void\n
+comment2.params=
+comment2.target=void\ binToHex()
+comment2.text=\n\ Method\ that\ transforms\ a\ binary\ to\ hexadecimal\n\ \n\ @param\ no\ parameters\n\ @return\ returns\ void\n
+numComments=3

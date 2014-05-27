@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ObjectListNode()
+comment0.text=\n\ \ Default\ ctor\ \ \ \ \n
+comment1.params=o
+comment1.target=ObjectListNode(java.lang.Object)
+comment1.text=\n\ \ One-arg\ ctor\n\ @param\ object\n
+comment2.params=o\ p
+comment2.target=ObjectListNode(java.lang.Object,\ ObjectListNode)
+comment2.text=\n\ \ Two-arg\ ctor\n\ @param\ object\n\ @param\ ObjectListNode\n
+comment3.params=o
+comment3.target=void\ setInfo(java.lang.Object)
+comment3.text=\n\ Sets\ info\ field\n\ @param\ object\n
+comment4.params=
+comment4.target=java.lang.Object\ getInfo()
+comment4.text=\n\ \ Returns\ object\ in\ info\ field\n\ @return\ Object\n
+comment5.params=p
+comment5.target=void\ setNext(ObjectListNode)
+comment5.text=\n\ Sets\ next\ field\n\ @param\ ObjectListNode\n
+comment6.params=
+comment6.target=ObjectListNode\ getNext()
+comment6.text=\n\ \ Returns\ object\ in\ info\ field\n\ @return\ ObjectListNode\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=ArrivalTime\ Pid\ CpuTimeRequired
+comment0.target=Job(int,\ int,\ int)
+comment0.text=\n\ Class\ constructor\n\ @param\ ArrivalTime\n\ @param\ Pid\n\ @param\ CpuTimeRequired\n
+comment1.params=
+comment1.target=int\ getArrivalTime()
+comment1.text=\n\ Extracts\ the\ time\ when\ this\ job\ arrived\ in\ the\ queue/level\n\ @return\ arrivalTime\n
+comment2.params=
+comment2.target=int\ getPID()
+comment2.text=\n\ Extracts\ the\ job\ ID\n\ @return\n
+comment3.params=
+comment3.target=int\ getCpuTimeRequired()
+comment3.text=\n\ Returns\ the\ cpu\ time\ required\ for\ the\ current\ job\n\ @return\ cpuTimeRequired\n
+comment4.params=
+comment4.target=int\ getTimeRemaining()
+comment4.text=\n\ Returns\ the\ number\ of\ seconds\ needed\ to\ finish\ this\ job\n\ @return\ cpuTimeRemaining\n
+numComments=5

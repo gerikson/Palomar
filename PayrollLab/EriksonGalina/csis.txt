@@ -1,0 +1,79 @@
+First Name	Last Name	Gender	Tenure	Rate	Salary
+DEBBIE	STARR	F	3	W	1000.0
+JOAN	JACOBUS	F	9	W	925.0
+DAVID	RENN	M	3	H	4.75
+ALBERT	CAHANA	M	3	H	18.75
+DOUGLAS	SHEER	M	5	W	250.0
+SHARI	BUCHMAN	F	9	W	325.0
+SARA	JONES	F	1	H	7.5
+RICKY	MOFSEN	M	6	H	12.5
+JEAN	BRENNAN	F	6	H	5.4
+JAMIE	MICHAELS	F	8	W	150.0
+
+Number of employees in the database is: 10
+
+First name of all the women in the database are: 
+DEBBIE
+JOAN
+SHARI
+SARA
+JEAN
+JAMIE
+
+First and last names and weekly salary of all weekly employees who make more then $35,000 per year and who have been with the company for at least five years: 
+JOAN	JACOBUS	925.0
+
+First and last names and new salary for employees who have received raises: 
+DAVID	RENN	5.5
+DOUGLAS	SHEER	300.0
+SHARI	BUCHMAN	375.0
+SARA	JONES	8.25
+JEAN	BRENNAN	6.15
+JAMIE	MICHAELS	200.0
+
+Sorted database by last name is: 
+First Name	Last Name	Gender	Tenure	Rate	Salary
+JEAN	BRENNAN	F	6	H	6.15
+SHARI	BUCHMAN	F	9	W	375.0
+ALBERT	CAHANA	M	3	H	18.75
+JOAN	JACOBUS	F	9	W	925.0
+SARA	JONES	F	1	H	8.25
+JAMIE	MICHAELS	F	8	W	200.0
+RICKY	MOFSEN	M	6	H	12.5
+DAVID	RENN	M	3	H	5.5
+DOUGLAS	SHEER	M	5	W	300.0
+DEBBIE	STARR	F	3	W	1000.0
+
+New hired employees inserted in the database: 
+First Name	Last Name
+BARRY	ALLEN
+JEAN	BRENNAN
+SHARI	BUCHMAN
+ALBERT	CAHANA
+JOAN	JACOBUS
+SARA	JONES
+JAMIE	MICHAELS
+RICKY	MOFSEN
+NINA	PINELLA
+DAVID	RENN
+DOUGLAS	SHEER
+DEBBIE	STARR
+LANE	WAGGER
+
+Number of employees in the database is: 13
+
+Fired employees deleted from the database: 
+First Name	Last Name
+BARRY	ALLEN
+SHARI	BUCHMAN
+ALBERT	CAHANA
+JOAN	JACOBUS
+SARA	JONES
+JAMIE	MICHAELS
+NINA	PINELLA
+DAVID	RENN
+DOUGLAS	SHEER
+DEBBIE	STARR
+LANE	WAGGER
+
+Number of employees in the database is: 11

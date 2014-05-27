@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=input\ pw
+comment0.target=MFQ(java.util.Scanner,\ java.io.PrintWriter)
+comment0.text=\n\ Class\ constructor\n
+comment1.params=
+comment1.target=void\ getJobs()
+comment1.text=\n\ Method\ that\ extracts\ the\ job\ from\ \n
+comment2.params=
+comment2.target=void\ outputHeader()
+comment2.text=\n\ Outputs\ the\ header\n
+comment3.params=
+comment3.target=void\ outStats()
+comment3.text=\n\ Calculates\ the\ statistics\n
+comment4.params=
+comment4.target=void\ runSimulation()
+comment4.text=\n\ Runs\ the\ simulation\n
+numComments=5

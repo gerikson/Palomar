@@ -1,0 +1,1 @@
+// linearSearch.java// Returns the index in the array of data item found// Returns -1 if data item not in arraypublic int linearSearch(int[] list, int max, int key) {    for (int i = 0; i < max; ++i)        if (list[i] == key)            return i;    return -1;}

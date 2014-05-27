@@ -1,0 +1,42 @@
+Event	System Time	PID	CPUTimeNeeded	TotalTimeInSystem	LovestLevelQueue
+Arrival	2	101	3
+Departure	5	101		3	2
+Arrival	7	102	1
+Departure	8	102		1	1
+Arrival	9	103	7
+Arrival	12	104	5
+Arrival	14	105	1
+Departure	15	105		1	1
+Arrival	17	106	1
+Departure	18	106		1	1
+Arrival	18	107	50
+Arrival	24	108	2
+Departure	26	108		2	1
+Departure	30	103		21	3
+Departure	31	104		19	3
+Arrival	34	109	12
+Arrival	37	110	3
+Departure	40	110		3	2
+Arrival	44	111	10
+Arrival	45	112	48
+Arrival	50	113	1
+Departure	51	113		1	1
+Arrival	56	114	1
+Departure	57	114		1	1
+Arrival	71	115	3
+Departure	74	115		3	2
+Departure	79	109		45	4
+Arrival	81	116	2
+Departure	83	116		2	1
+Departure	118	111		74	4
+Departure	152	112		107	4
+Departure	155	107		137	4
+
+#######STATISTICS#########
+Total number of jobs: 16.0
+Total time of all jobs in the system: 421
+Average response time: 0
+Average turnaround time for all jobs: 26.3125
+Average waiting time: 8.375
+Average throughput for the system as a whole: 0.038
+Total CPU idle time: 6

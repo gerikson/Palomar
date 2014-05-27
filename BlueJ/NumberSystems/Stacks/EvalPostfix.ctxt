@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=ex\ pw
+comment0.target=EvalPostfix(java.lang.String,\ java.io.PrintWriter)
+comment0.text=\n\ Class\ constructor\n\ @param\ ex\n\ @param\ pw\n
+comment1.params=
+comment1.target=void\ calculate()
+comment1.text=\n\ Algorithm\ to\ evaluate\ a\ postfix\ expression\n
+comment2.params=num1\ num2\ operator
+comment2.target=int\ calculateOperation(int,\ int,\ java.lang.String)
+comment2.text=\n\ Evaluates\ a\ operation\ given\ 2\ integers\ and\ a\ sting\ operator\n\ @param\ num1\n\ @param\ num2\n\ @param\ operator\n\ @return\n
+comment3.params=num1\ num2
+comment3.target=int\ exponential(int,\ int)
+comment3.text=\n\ Recursive\ method\ that\ calculations\ the\ exponential\ of\ a\ number\n\ \n\ @param\ num1\n\ @param\ num2\n\ @return\ exponential\n
+comment4.params=str
+comment4.target=boolean\ isNumeric(java.lang.String)
+comment4.text=\n\ Method\ that\ verifies\ is\ a\ String\ is\ numeric\n\ \n\ @param\ str\n\ @return\n
+numComments=5

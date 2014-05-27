@@ -1,0 +1,10 @@
+DEBBIE     STARR           F 3 W 1000.00
+JOAN       JACOBUS         F 9 W  925.00
+DAVID      RENN            M 3 H    4.75
+ALBERT     CAHANA          M 3 H   18.75
+DOUGLAS    SHEER           M 5 W  250.00
+SHARI      BUCHMAN         F 9 W  325.00
+SARA       JONES           F 1 H    7.50
+RICKY      MOFSEN          M 6 H   12.50
+JEAN       BRENNAN         F 6 H    5.40
+JAMIE      MICHAELS        F 8 W  150.00

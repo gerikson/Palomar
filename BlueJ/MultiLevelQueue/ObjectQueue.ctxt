@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ObjectQueue()
+comment0.text=\n\ Class\ constructor\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\n\ verifies\ if\ the\ queue\ has\ any\ elements\n\ @return\ true\ if\ queue\ is\ empty\n
+comment2.params=
+comment2.target=boolean\ isFull()
+comment2.text=\n\ checks\ if\ the\ queue\ is\ full\n\ @return\ true\ if\ queue\ is\ full\n
+comment3.params=
+comment3.target=void\ clear()
+comment3.text=\n\ Clears\ all\ of\ the\ elements\ from\ the\ queue\n
+comment4.params=o
+comment4.target=void\ insert(java.lang.Object)
+comment4.text=\n\ Inserts\ a\ new\ object\ in\ the\ queue\n\ @param\ Object\n
+comment5.params=
+comment5.target=java.lang.Object\ remove()
+comment5.text=\n\ Removes\ one\ element\ from\ the\ front\ of\ the\ queue\n\ @return\ the\ object\ removed\n
+comment6.params=
+comment6.target=java.lang.Object\ query()
+comment6.text=\n\ Queries\ the\ queue\ without\ removing\ the\ element\n\ @return\ the\ first\ element\ of\ the\ queue\n
+comment7.params=size
+comment7.target=void\ resize(int)
+comment7.text=\n\ Resizes\ the\ queue\n\ @param\ size\ \n
+numComments=8
